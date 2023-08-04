@@ -67,3 +67,6 @@ TypeScript with Frameworks and Libraries:
 Using TypeScript with React, Angular, or other frameworks
 Typing third-party libraries
 Remember that learning a programming language is a journey, and practice is crucial. As you progress, try building small projects to apply what you learn and reinforce your understanding of TypeScript concepts. Additionally, always refer to the official TypeScript documentation for detailed information and updates. Happy learning!
+
+
+
