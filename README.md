@@ -1,1 +1,1 @@
-# learnTs
+# TypeScript
